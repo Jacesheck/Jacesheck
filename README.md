@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jacesheck
+- 👋 Hi, I’m Jace Denny
 - 👀 I’m interested in robotics
 - 🤖 I’m currently working as an embedded software engineer
 - 📫 How to reach me:
